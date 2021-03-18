@@ -37,4 +37,4 @@ console.log(incB(incC(8)));
 console.log(composeu(double, square)(5));
 console.log(composeb(add, mul)(5, 4, 3));
 const count = counter(20);
-console.log(count.dec());
+console.log(count.inc());
